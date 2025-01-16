@@ -1,0 +1,2 @@
+GitHubi ajalugu
+GitHub asutati 2008. aastal Tom Preston-Werneri, Chris Wanstrathi, PJ Hyetti ja Scott Chaconi poolt. GitHubi teenus sai avalikkusele kergesti ligipääsetavaks 2008. aasta aprillis.
