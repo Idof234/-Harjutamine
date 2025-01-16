@@ -1,2 +1,13 @@
+side
 GitHubi ajalugu
 GitHub asutati 2008. aastal Tom Preston-Werneri, Chris Wanstrathi, PJ Hyetti ja Scott Chaconi poolt. GitHubi teenus sai avalikkusele kergesti ligipääsetavaks 2008. aasta aprillis.
+=======
+Mis on GitHub?
+GitHub on veebipõhine platvorm, mis pakub teenuseid koodiversioonide haldamiseks ja koostööks. GitHub võimaldab arendajatel ja meeskondadel hallata oma projekte, jälgida muudatusi, teha koostööd ja jagada koodi. GitHub põhineb Gitil, mis on hajutatud versioonihaldussüsteem.
+
+Kes kasutab GitHubi?
+GitHubi kasutavad arendajad, tarkvarainvestorid, teadlased ja paljud teised professionaalid, kes loovad ja haldavad digitaalset sisu. GitHub on populaarne open-source kogukonnas, kuid seda kasutatakse ka ettevõtetes ja haridussektoris tarkvara arendamiseks.
+
+Kuidas ja kus plaanin ma GitHubi tulevikus kasutada?
+Tulevikus kasutan GitHubi oma tarkvaraprojektide haldamiseks ja koodide jagamiseks teiste arendajatega. Samuti plaanin GitHubi kasutada oma isiklike projektide arendamiseks ja avatud lähtekoodiga koostööks.
+main
